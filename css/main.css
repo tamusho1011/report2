@@ -76,7 +76,7 @@ section::before,section::after {
     02. Header 
 ========================================================================== */
 #header {
-    background-image:url(../img/night.jpg);
+    background-image:url(../cookingtips_00.jpg);
     -webkit-background-size:/*@@prefixmycss->No equivalent*/;
     -moz-background-size:cover;
     -o-background-size:/*@@prefixmycss->No equivalent*/;
@@ -224,7 +224,7 @@ section::before,section::after {
     05. parallax 
 ========================================================================== */
 .parallax {
-    background:url(../img/parallax1.jpg) fixed no-repeat center center;
+    background:url(../内装２.jpg) fixed no-repeat center center;
     -webkit-background-size:/*@@prefixmycss->No equivalent*/;
     -moz-background-size:cover;
     -o-background-size:/*@@prefixmycss->No equivalent*/;
